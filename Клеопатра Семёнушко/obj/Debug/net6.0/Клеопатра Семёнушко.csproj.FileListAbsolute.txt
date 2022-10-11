@@ -1,0 +1,15 @@
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\bin\Debug\net6.0\Клеопатра Семёнушко.exe
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\bin\Debug\net6.0\Клеопатра Семёнушко.deps.json
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\bin\Debug\net6.0\Клеопатра Семёнушко.runtimeconfig.json
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\bin\Debug\net6.0\Клеопатра Семёнушко.dll
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\bin\Debug\net6.0\Клеопатра Семёнушко.pdb
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\obj\Debug\net6.0\Клеопатра Семёнушко.csproj.AssemblyReference.cache
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\obj\Debug\net6.0\Клеопатра Семёнушко.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\obj\Debug\net6.0\Клеопатра Семёнушко.AssemblyInfoInputs.cache
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\obj\Debug\net6.0\Клеопатра Семёнушко.AssemblyInfo.cs
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\obj\Debug\net6.0\Клеопатра Семёнушко.csproj.CoreCompileInputs.cache
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\obj\Debug\net6.0\Клеопатра Семёнушко.dll
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\obj\Debug\net6.0\refint\Клеопатра Семёнушко.dll
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\obj\Debug\net6.0\Клеопатра Семёнушко.pdb
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\obj\Debug\net6.0\Клеопатра Семёнушко.genruntimeconfig.cache
+D:\C# Projects\Клеопатра Семёнушко\Клеопатра Семёнушко\obj\Debug\net6.0\ref\Клеопатра Семёнушко.dll
